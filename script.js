@@ -1,4 +1,4 @@
-/*
+ /*
 Author: ChatGPT
 Completion date: February 26, 2024
 This sketch features a cat moving back and forth. When clicked, the cat does a full 360-degree backflip and continues moving.
